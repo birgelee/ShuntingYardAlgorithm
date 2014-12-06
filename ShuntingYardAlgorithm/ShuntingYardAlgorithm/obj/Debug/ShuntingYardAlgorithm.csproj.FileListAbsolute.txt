@@ -1,0 +1,6 @@
+C:\Users\Henry\OneDrive\Documents\GitHub\ShuntingYardAlgorithm\ShuntingYardAlgorithm\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.exe.config
+C:\Users\Henry\OneDrive\Documents\GitHub\ShuntingYardAlgorithm\ShuntingYardAlgorithm\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Henry\OneDrive\Documents\GitHub\ShuntingYardAlgorithm\ShuntingYardAlgorithm\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.exe
+C:\Users\Henry\OneDrive\Documents\GitHub\ShuntingYardAlgorithm\ShuntingYardAlgorithm\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.pdb
+C:\Users\Henry\OneDrive\Documents\GitHub\ShuntingYardAlgorithm\ShuntingYardAlgorithm\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.exe
+C:\Users\Henry\OneDrive\Documents\GitHub\ShuntingYardAlgorithm\ShuntingYardAlgorithm\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.pdb
